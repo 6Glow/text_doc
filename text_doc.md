@@ -1,4 +1,4 @@
-## text_documentation
+## Tex_doc
 
 1. [Tast case](https://github.com/6Glow/Test-case/blob/main/Test-case.md)
 2. [Check list](https://github.com/6Glow/Check_list/blob/main/Check_list.md)
